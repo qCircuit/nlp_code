@@ -5,6 +5,8 @@
     - sentiment prediction by transformers, full cycle: encoding + fit + prediction
 * marketplace_goods.ipynb
     - Word2Vec
+* sentiment_clothing
+    - text sentiment, refit model's head
 * sklearn_umap_tfidf_kmeans_bbc_news.ipynb
     - tfidf, kmeans
 * text_cleaning.ipynb
